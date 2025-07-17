@@ -6,4 +6,7 @@ I used ML to detect hardware trojans using frequency data from different ring-os
 
 Simple Vector Machines (SVMs) and 3 using Random Forest. These models were created in Jupyter Notebook using Sci-kit.
 
-# import-statements
+# installations
+
+First, install Anaconda at (https://www.anaconda.com/products/distribution). Then, you can launch Jupyter Notebook in your command shell (jupyter notebook)
+
